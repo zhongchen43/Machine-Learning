@@ -11,3 +11,10 @@ This repository includes the exercises I have done in the Machine Learning cours
 * Anomaly Detection and Recommender Systems
 ## Contact me
 Via email: zhongchen43 at gmail dot com
+## Suggestion
+* I think prof. Ng's exercises are really helpful for new machine learning people, and I also recommend you not only finish the course work, but also look at the whole codes prof. Ng provides.
+* Think why simple algorithm can work very well in big data
+## Books
+* Introduction to Statistic Learning
+* The Elements of Statistic Learning
+* Python Machine Learning
